@@ -1,0 +1,29 @@
+{
+    "author": "NiVZ",
+    "dependencies": {},
+    "keywords": [],
+    "name": "edge-ticks",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "EDGE TICKS",
+        "enableMultiJS": true,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "4b6334ca-ee4e-4706-81fa-16f0fabca347",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
